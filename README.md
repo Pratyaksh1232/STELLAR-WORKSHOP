@@ -127,3 +127,6 @@ For questions, suggestions, or collaboration opportunities, please reach out to 
 ---
 
 **Built with ❤️ on Stellar Blockchain**
+
+<img width="1896" height="982" alt="image" src="https://github.com/user-attachments/assets/717b05be-31e5-496a-9f2d-5489ac4f8119" />
+
